@@ -1,0 +1,10 @@
+Shopping List
+
+Arduino UNO - Done
+USB Adapter - Done
+
+Check stock of following:
+
+Arduino MINI PRO or Nano(depending on stock)
+ADXL335 3-Axis Accelerometer or gyro+accelerometer
+433MHz or 325Mhz RF Transmitter/Reciever
